@@ -20,7 +20,7 @@
     "express": "~4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.20",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "vue": "~2.6.8",
     "vue-router": "~3.0.2",
     "vuex": "~3.1.0"
